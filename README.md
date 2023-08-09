@@ -33,4 +33,4 @@
 
 
   ## 📖 I also learned about</h4>
-- React
+- Angular
