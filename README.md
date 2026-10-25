@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/borhan-mahmoud"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:borhanmahmoud200@gmail.com"><b>borhanmahmoud200@gmail.com</b></a> &nbsp;·&nbsp;
+  <a href="mailto:borhanmahmoud200@gmail.com"><b>borhanmahmoud200@gmail.com</b></a>
 </p>
 
 ---
